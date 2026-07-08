@@ -1,4 +1,7 @@
-# 📧 Spam Email Classification using Traditional Machine Learning and DistilBERT
+<p align="center">
+  <img src="banner.png" alt="Spam Email Classification Banner" width="100%">
+</p>
+# Spam Email Classification using Traditional Machine Learning and DistilBERT
 
 ## Overview
 
